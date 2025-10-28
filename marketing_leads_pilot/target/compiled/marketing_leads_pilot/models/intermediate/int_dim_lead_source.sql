@@ -1,0 +1,3 @@
+SELECT DISTINCT
+LEAD_SOURCE
+FROM nra_demo_db.dbt_projects.stg_marketing_leads
